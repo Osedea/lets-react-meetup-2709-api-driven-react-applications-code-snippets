@@ -1,0 +1,32 @@
+{
+  "tabs": [
+    {
+      "key": "doctorWhoProducts",
+      "label": "Doctor Who"
+    },
+    {
+      "key": "startTrekProducts",
+      "label": "Star Trek"
+    },
+  ],
+  "doctorWhoProducts": [
+    {
+      "id": 1,
+      "name": "Doctor Who screwdriver",
+      "tag": "Doctor Who",
+      "image": "https://...",
+      "price": 50,
+      "unit": "USD"
+    },
+    {
+      "id": 1,
+      "name": "Doctor Who Fez",
+      "image": "https://...",
+      "tag": "Doctor Who",
+      "price": 20,
+      "unit": "USD"
+    },
+	...
+  ],
+  "starTrekProducts": [ ... ]
+}

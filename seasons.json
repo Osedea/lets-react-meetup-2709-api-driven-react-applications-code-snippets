@@ -1,0 +1,25 @@
+{
+    "tabs": [
+        { "key": "seasons", "label": "Seasons" },
+        { "key": "episodes", "label": "Episodes List" },
+        { "key": "cast", "label": "Casts and characters" }
+    ],
+    "episodes": {
+        "headers": [
+            { "key": "season", "value": "Season / Series", "mobile": true },
+            { "key": "era", "value": "Era", "mobile": true },
+            { "key": "producer", "value": "Producer", "mobile": false },
+            ...
+        ],
+        "rows": [
+            {
+                "season": "Season 1",
+                "seasonColor": "#8D3D63",
+                "era": "Classic",
+                "producer": "Phil Collinson"
+            },
+            ...
+        ]
+    },
+    "cast": { ... }
+}

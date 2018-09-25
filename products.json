@@ -1,0 +1,21 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Doctor Who sonic screwdriver",
+        "tag": "Doctor Who",
+        "image": "https://...",
+        "price": 50,
+        "unit": "USD"
+      },
+      {
+        "id": 1,
+        "name": "Doctor Who Fez",
+        "tag": "Doctor Who",
+        "image": "https://...",
+        "price": 20,
+        "unit": "USD"
+      },
+      ...
+    ]
+}
